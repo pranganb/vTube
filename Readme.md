@@ -2,6 +2,7 @@
 ## Set Up your .env variables
 ## create your mongodb cluster
 ## set up your cloudinary account
+## user authentication with JWTs
 
 Shell:
 ````
